@@ -1,5 +1,6 @@
 package view;
 
+<<<<<<< HEAD
 
 import java.io.File;
 import java.io.IOException;
@@ -37,3 +38,13 @@ public class MainView extends JFrame{
 	}
 	
 }
+=======
+import javax.swing.JFrame;
+
+public class MainView extends JFrame{
+	
+	public MainView() {
+		
+	}
+}
+>>>>>>> 9b0ebcc35055640bbec6c6dd413b879c4e8c5657
